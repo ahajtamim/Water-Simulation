@@ -1,4 +1,4 @@
-# Water Simulation
+# Water Simulations
 
 ### This LAMMPS simulation sets up a 3D Lennard-Jones closed system of water molecules at fixed temperature with periodic boundaries.
 
